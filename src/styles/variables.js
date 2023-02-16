@@ -8,7 +8,7 @@ const variables = css`
     --lightest-navy: #fc4445; //accent bars
     --navy-shadow: #fc4445; //shadow of nav bar
     --dark-slate: #000000;
-    --slate: #ffffff; //text
+    --slate: #000000; //text
     --light-slate: #000000; //side text and icons
     --lightest-slate: #000000;
     --white: #000000;

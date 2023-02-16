@@ -1,12 +1,12 @@
 ---
 date: '2018-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - April 2018'
-url: 'https://web.northeastern.edu/scout/'
+title: 'Software Engineer Intern'
+company: 'TDS Telecom'
+location: 'Madison, WI'
+range: 'June 2020 - March 2021'
+url: 'https://tdstelecom.com/'
 ---
 
-- Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
-- Helped solidify a brand direction for blistabloc that spans both packaging and web
-- Interfaced with clients on a weekly basis, providing technological expertise
+- Delivered department-wide emails with file attachments using an SMTP server running on an asynchronous task queue.
+- Built a fully functional interactive dashboard from GIS map data using HTML, JavaScript, and Arcade.
+- Updated map layers, content, and automated GIS data management tasks by developing Python scripts using API’s.

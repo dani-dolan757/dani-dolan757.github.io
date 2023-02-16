@@ -14,7 +14,7 @@ const StyledLoader = styled.div`
   right: 0;
   width: 100%;
   height: 100%;
-  background-color: var(--dark-navy);
+  background-color: var(--navy);
   z-index: 99;
 
   .logo-wrapper {
@@ -37,7 +37,7 @@ const StyledLoader = styled.div`
 `;
 
 const Loader = ({ finishLoading }) => {
-  const [isMounted, setIsMounted] = useState(false);
+  const [isMounted, setIsMounted] = useState(true);
 
   const animate = () => {
     const loader = anime.timeline({
@@ -47,28 +47,28 @@ const Loader = ({ finishLoading }) => {
     loader
       .add({
         targets: '#logo path',
-        delay: 300,
-        duration: 1500,
+        delay: 0,
+        duration: 0,
         easing: 'easeInOutQuart',
         strokeDashoffset: [anime.setDashoffset, 0],
       })
       .add({
         targets: '#logo #B',
-        duration: 700,
+        duration: 0,
         easing: 'easeInOutQuart',
         opacity: 1,
       })
       .add({
         targets: '#logo',
-        delay: 500,
-        duration: 300,
+        delay: 0,
+        duration: 0,
         easing: 'easeInOutQuart',
         opacity: 0,
         scale: 0.1,
       })
       .add({
         targets: '.loader',
-        duration: 200,
+        duration: 0,
         easing: 'easeInOutQuart',
         opacity: 0,
         zIndex: -1,

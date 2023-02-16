@@ -1,14 +1,14 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
-cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+title: 'Flappy Unicorn AI'
+cover: './unicorn.png'
+external: 'https://flappy-unicorn.github.io/'
 cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - HTML/CSS
+  - JavaScript
+  - AI Library
 ---
 
 Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
