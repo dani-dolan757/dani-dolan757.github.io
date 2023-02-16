@@ -65,9 +65,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a QA Automation Engineer specializing in building (and occasionally designing)
-        exceptional digital experiences. Currently, I’m focused on building accessible,
-        human-centered products at{' '}
+        I’m a QA Automation Engineer specializing in designing, developing, and implementing test
+        automation frameworks for web applications at{' '}
         <a href="https://www.junipersquare.com/" target="_blank" rel="noreferrer">
           Juniper Square
         </a>

@@ -2,8 +2,8 @@
 date: '3'
 title: 'Flappy Unicorn AI'
 cover: './unicorn.png'
+github: 'https://github.com/Dani-Dolan/SpotifyAppVisualizer'
 external: 'https://flappy-unicorn.github.io/'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
 
 tech:
   - HTML/CSS

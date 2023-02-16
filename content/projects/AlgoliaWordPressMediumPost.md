@@ -1,14 +1,14 @@
 ---
-date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+date: '2021-01-15'
+title: 'Constellation Creator with Houdini'
+github: 'https://github.com/Dani-Dolan/constellation-creator'
+external: 'https://github.com/Dani-Dolan/constellation-creator'
 tech:
-  - Algolia
-  - WordPress
-  - PHP
-company: 'Upstatement'
+  - Tweakpane
+  - JavaScript
+  - CSS Houdini
+
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+Made with Houdini, a set of low-level APIs that exposes parts of the CSS engine, giving the power to extend CSS by hooking into the styling and layout process of a browser’s rendering engine.

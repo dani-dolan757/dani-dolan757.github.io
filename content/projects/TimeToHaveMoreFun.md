@@ -1,14 +1,12 @@
 ---
 date: '2020-01-10'
-title: 'Time to Have More Fun'
-github: 'https://github.com/bchiang7/time-to-have-more-fun'
-external: 'https://time-to-have-more-fun.now.sh/'
+title: 'Password Generator'
+github: 'https://github.com/Dani-Dolan/password-generator'
+
 tech:
-  - Next.js
-  - Tailwind CSS
-  - Firebase
+  - Python
 company: ''
 showInProjects: true
 ---
 
-A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
+A program that will randomly combine words from given a text to generate a memorable passwords.

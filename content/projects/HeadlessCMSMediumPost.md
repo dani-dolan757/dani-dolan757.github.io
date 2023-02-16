@@ -1,15 +1,12 @@
 ---
-date: '2019-11-12'
-title: 'Building a Headless Mobile App CMS From Scratch'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9'
+date: '2021-01-17'
+title: 'Personal Website V1'
+github: 'https://github.com/Dani-Dolan/Dani-Dolan.github.io'
+external: 'https://dani-dolan.github.io/'
 tech:
-  - Node
-  - Express
-  - Firebase
-  - Vue
-company: 'Upstatement'
+  - HTML/CSS
+  - JavaScript
 showInProjects: true
 ---
 
-Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement
+First version of my personal portfolio website
